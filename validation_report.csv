@@ -1,0 +1,6 @@
+row_number,full_name,email,status,issues
+2,Ravi Kumar,ravi@example.com,Valid,None
+3,Anita Rao,anita@example.com,Valid,None
+4,Sample User,wrong-email,Invalid,Invalid email format; Age must be a whole number
+5,Duplicate User,ravi@example.com,Invalid,Duplicate email
+6,Missing City,missing@example.com,Invalid,Missing city

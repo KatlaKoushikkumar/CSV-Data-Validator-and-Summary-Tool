@@ -1,0 +1,6 @@
+full_name,email,age,city
+Ravi Kumar,ravi@example.com,24,Anantapur
+Anita Rao,anita@example.com,22,Hyderabad
+Sample User,wrong-email,twenty,Delhi
+Duplicate User,ravi@example.com,26,Vijayawada
+Missing City,missing@example.com,21,
